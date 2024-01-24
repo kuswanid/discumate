@@ -1,0 +1,286 @@
+[
+    {
+        "id": "555",
+        "name": "Belajar Analisis Data dengan Python"
+    },
+    {
+        "id": "565",
+        "name": "Belajar Tools Front-End Web Intermediate"
+    },
+    {
+        "id": "570",
+        "name": "Belajar Dasar Manajemen Proyek"
+    },
+    {
+        "id": "580",
+        "name": "Belajar Pemrograman Fungsional dengan Haskell"
+    },
+    {
+        "id": "590",
+        "name": "Belajar Penerapan Data Science"
+    },
+    {
+        "id": "600",
+        "name": "Belajar Dasar Structured Query Language (SQL)"
+    },
+    {
+        "id": "605",
+        "name": "Memulai Pemrograman dengan Haskell"
+    },
+    {
+        "id": "610",
+        "name": "Menjadi Node.js Application Developer"
+    },
+    {
+        "id": "615",
+        "name": "Belajar Dasar Data Science"
+    },
+    {
+        "id": "620",
+        "name": "Belajar Pemrograman Prosedural dengan Python"
+    },
+    {
+        "id": "428",
+        "name": "Belajar Implementasi CI/CD"
+    },
+    {
+        "id": "423",
+        "name": "Menjadi Linux System Administrator"
+    },
+    {
+        "id": "413",
+        "name": "Belajar Fundamental Aplikasi Web dengan React"
+    },
+    {
+        "id": "403",
+        "name": "Belajar Membuat Aplikasi Web dengan React"
+    },
+    {
+        "id": "387",
+        "name": "Belajar Jaringan Komputer untuk Pemula"
+    },
+    {
+        "id": "382",
+        "name": "Belajar Dasar-Dasar DevOps"
+    },
+    {
+        "id": "352",
+        "name": "Belajar Pengembangan Aplikasi Android Intermediate"
+    },
+    {
+        "id": "342",
+        "name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud"
+    },
+    {
+        "id": "337",
+        "name": "Belajar Dasar Google Cloud"
+    },
+    {
+        "id": "335",
+        "name": "Belajar Dasar UX Design"
+    },
+    {
+        "id": "332",
+        "name": "Menjadi Google Cloud Architect"
+    },
+    {
+        "id": "510",
+        "name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Cloudeka"
+    },
+    {
+        "id": "480",
+        "name": "Belajar Pengembangan Aplikasi Flutter Intermediate"
+    },
+    {
+        "id": "445",
+        "name": "Belajar Membuat Aplikasi Android dengan Jetpack Compose"
+    },
+    {
+        "id": "443",
+        "name": "Machine Learning Operations (MLOps)"
+    },
+    {
+        "id": "433",
+        "name": "Belajar Membangun Arsitektur Microservices"
+    },
+    {
+        "id": "418",
+        "name": "Menjadi React Web Developer Expert"
+    },
+    {
+        "id": "292",
+        "name": "Meniti Karier sebagai Software Developer"
+    },
+    {
+        "id": "302",
+        "name": "Pengenalan ke Logika Pemrograman (Programming Logic 101)"
+    },
+    {
+        "id": "317",
+        "name": "Belajar Dasar Git dengan GitHub"
+    },
+    {
+        "id": "120",
+        "name": "Memulai Pemrograman Dengan C"
+    },
+    {
+        "id": "177",
+        "name": "Belajar Dasar Visualisasi Data"
+    },
+    {
+        "id": "86",
+        "name": "Memulai Pemrograman dengan Python"
+    },
+    {
+        "id": "184",
+        "name": "Belajar Machine Learning untuk Pemula"
+    },
+    {
+        "id": "185",
+        "name": "Belajar Pengembangan Machine Learning"
+    },
+    {
+        "id": "319",
+        "name": "Machine Learning Terapan"
+    },
+    {
+        "id": "312",
+        "name": "Simulasi Ujian TensorFlow Developer Certificate"
+    },
+    {
+        "id": "60",
+        "name": "Memulai Pemrograman Dengan Java"
+    },
+    {
+        "id": "80",
+        "name": "Memulai Pemrograman dengan Kotlin"
+    },
+    {
+        "id": "169",
+        "name": "Belajar Prinsip Pemrograman SOLID"
+    },
+    {
+        "id": "51",
+        "name": "Belajar Membuat Aplikasi Android untuk Pemula"
+    },
+    {
+        "id": "14",
+        "name": "Belajar Fundamental Aplikasi Android"
+    },
+    {
+        "id": "165",
+        "name": "Menjadi Android Developer Expert"
+    },
+    {
+        "id": "287",
+        "name": "Simulasi Ujian Associate Android Developer"
+    },
+    {
+        "id": "145",
+        "name": "Memulai Pemrograman Dengan Swift"
+    },
+    {
+        "id": "171",
+        "name": "Belajar Membuat Aplikasi iOS untuk Pemula"
+    },
+    {
+        "id": "202",
+        "name": "Belajar Fundamental Aplikasi iOS"
+    },
+    {
+        "id": "209",
+        "name": "Menjadi iOS Developer Expert"
+    },
+    {
+        "id": "123",
+        "name": "Belajar Dasar Pemrograman Web"
+    },
+    {
+        "id": "315",
+        "name": "Belajar Membuat Front-End Web untuk Pemula"
+    },
+    {
+        "id": "163",
+        "name": "Belajar Fundamental Front-End Web Development"
+    },
+    {
+        "id": "219",
+        "name": "Menjadi Front-End Web Developer Expert"
+    },
+    {
+        "id": "251",
+        "name": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)"
+    },
+    {
+        "id": "256",
+        "name": "Belajar Dasar Pemrograman JavaScript"
+    },
+    {
+        "id": "261",
+        "name": "Belajar Membuat Aplikasi Back-End untuk Pemula"
+    },
+    {
+        "id": "266",
+        "name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)"
+    },
+    {
+        "id": "271",
+        "name": "Belajar Fundamental Aplikasi Back-End"
+    },
+    {
+        "id": "276",
+        "name": "Menjadi Back-End Developer Expert"
+    },
+    {
+        "id": "133",
+        "name": "Menjadi Google Cloud Engineer"
+    },
+    {
+        "id": "281",
+        "name": "Simulasi Ujian Associate Cloud Engineer"
+    },
+    {
+        "id": "191",
+        "name": "Memulai Pemrograman dengan Dart"
+    },
+    {
+        "id": "159",
+        "name": "Belajar Membuat Aplikasi Flutter untuk Pemula"
+    },
+    {
+        "id": "195",
+        "name": "Belajar Fundamental Aplikasi Flutter"
+    },
+    {
+        "id": "199",
+        "name": "Menjadi Flutter Developer Expert"
+    },
+    {
+        "id": "313",
+        "name": "Belajar Membuat Augmented Reality dengan Lens Studio"
+    },
+    {
+        "id": "237",
+        "name": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
+    },
+    {
+        "id": "153",
+        "name": "Belajar Membangun LINE Front-end Framework (LIFF)"
+    },
+    {
+        "id": "32",
+        "name": "Belajar Membangun LINE Chatbot"
+    },
+    {
+        "id": "505",
+        "name": "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)"
+    },
+    {
+        "id": "545",
+        "name": "Simulasi Ujian Pendidik Level 2 (Google Certified Educator Level 2 - Indonesian)"
+    },
+    {
+        "id": "550",
+        "name": "Simulasi Ujian Penilaian Keterampilan Pelatih (Trainer Skills Assessment - Indonesian)"
+    }
+]

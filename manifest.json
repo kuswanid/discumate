@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "DiscuMate",
+    "description": "Tools to monitoring Discussion Forums.",
+    "version": "1.0.0",
+    "icons": {
+        "128": "src/icons/icon.png"
+    },
+    "background": {
+        "service_worker": "src/background.js"
+    },
+    "side_panel": {
+        "default_path": "src/views/sidepanel.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.dicoding.com/academies/*/discussions/*"],
+            "js": ["src/content.js"],
+            "css": ["src/styles/style.css"]
+        }
+    ],
+    "permissions": ["sidePanel"]
+}
